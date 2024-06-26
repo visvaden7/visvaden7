@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1>Welcome to visvaden7' github</h1>
+</div>
+
+
 
 <!--
 **visvaden7/visvaden7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
