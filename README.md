@@ -2,7 +2,7 @@
   <h1>Welcome to visvaden7' github</h1>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20Web&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#9281CD&height=300&section=header&text=Hello%20Web&fontSize=90)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=F78585&random=false&width=435&lines=this+is+best+site+for+developement)](https://git.io/typing-svg)
